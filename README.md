@@ -11,4 +11,7 @@ Installation
     Activate the plugin through the ‘Plugins’ menu in WordPress.
 
 If you more details visit official plugin Page.
+
+https://wordpress.org/plugins/wordpress-sinhala-comments/
+
 http://webexplorar.com/wordpress-sinhala-comments-plugin/

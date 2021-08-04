@@ -14,4 +14,4 @@ If you more details visit official plugin Page.
 
 https://wordpress.org/plugins/wordpress-sinhala-comments/
 
-http://webexplorar.com/wordpress-sinhala-comments-plugin/
+https://webexplorar.com/wordpress-sinhala-comments-plugin/
